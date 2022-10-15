@@ -53,7 +53,7 @@
 			"\t}",
 			"\tout.flush();",
 			"}\n",
-			"public static void solution() {",
+			"public static void solution() throws IOException {",
 			"\tint n = fr.nextInt();",
 			"\t$0",
 			"}",
