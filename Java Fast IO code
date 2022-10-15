@@ -19,7 +19,7 @@ public class Main {
         double d = sc.nextDouble();
         
         // to write output on console
-        out.write("Hello World" + "\n"); // for priniting and moving cursor to new line
+        out.write("Hello World" + "\n"); // for printing and moving cursor to new line
         out.write("Hello"); // for printing
         
     }
