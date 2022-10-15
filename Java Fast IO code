@@ -12,7 +12,7 @@ public class Main {
         out.flush();
     }
     
-    public static void solution() {
+    public static void solution throws IOException() {
         // take input just like Scanner object
         int n = fr.nextInt(); 
         String s = fr.next();
