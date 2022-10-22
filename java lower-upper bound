@@ -28,12 +28,12 @@ UPPER BOUND
 
 
 // find the first element > value in range[start, end-1] in arr
-// if element is not found then return -1
+// if element is not found then return n
 // start index = included
 // end index = excluded
 
 public static int upperBound(int[] arr, int start, int end, int value) {
-    int n = -1;
+    int n = arr.length;
     int ans = n;
     int low = start;
     int high = end-1;
